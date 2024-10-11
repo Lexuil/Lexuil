@@ -10,3 +10,4 @@ I am currently working at
 
 #### Skills
 Languages & Frameworks: Node.js, Next.js, React, Nuxt, Vue.js, TypeScript, PHP, Laravel, MySQL, MongoDB
+Terraform & AWS DynamoDB, ECS, LEX, ECR, IAM, S3
